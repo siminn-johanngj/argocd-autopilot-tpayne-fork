@@ -21,7 +21,7 @@ spec:
   project: default
   source:
     path: projects
-    repoURL: https://github.com/tpayne/argocd-autopilot.git
+    repoURL: https://github.com/siminn-johanngj/argocd-autopilot-tpayne-fork.git
   syncPolicy:
     automated:
       allowEmpty: true

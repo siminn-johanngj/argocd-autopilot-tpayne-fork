@@ -12,7 +12,7 @@ To install an Argo installation from this autopilot repo, you will need to do th
 
 * Install `argocd-autopilot` and `argocd` (using `brew` or similar package manager)
 * Install `kubectl` and set your context to a Kubernetes installation you have admin permission to
-* Fork the `https://github.com/tpayne/argocd-autopilot.git` repo to your own
+* Fork the `https://github.com/siminn-johanngj/argocd-autopilot-tpayne-fork.git` repo to your own
 * Modify the contents of the YAML files to change any GitHub repo mentions to your own repo
 * Run the following commands to crearte the Argo deployment. Also, please refer to the Argo-autopilot document below to help define your PAT and other pre-requisites not covered in this spec.
 

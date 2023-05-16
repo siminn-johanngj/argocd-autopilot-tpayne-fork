@@ -4,7 +4,7 @@
   "destNamespace": "argocd",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "apps/workflows/overlays/custom-env",
-  "srcRepoURL": "https://github.com/tpayne/argocd-autopilot.git",
+  "srcRepoURL": "https://github.com/siminn-johanngj/argocd-autopilot-tpayne-fork.git",
   "srcTargetRevision": "",
   "labels": {
   }
